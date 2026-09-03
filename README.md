@@ -4,10 +4,9 @@ Hier teile ich meine Projekte, die ich mit de KI Cursor erstelle oder Überarbei
 
 ## Über mich
 
-Ich bin alt, so wie die Taste links unten.
-Früher war ich als Pentester, HW/SW-Tester für Übertragungsgeräte in Glasfasernetzen unterwegs. 
+Ich bin so wie die 4te Taste links unten. Alt
 In meiner Freizeit bastel ich an Freifunkroutern rum, baue Antennen oder Offloader.
-Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. 
+Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. Diese Repos sind Maschinenlesbar und auf Grundlage von [pep.](https://peps.python.org/) erstellt.
 
 ## Meine Programmiersprachen & Tools:
 
@@ -18,7 +17,7 @@ Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel ve
 ## Projekte
 
 Hier liegt eine Sammlung von Projekten, die ich im Original nicht zum laufen bekommen habe.
-Dann heisst das: Ey Cursor, check das mal und geht das in Python? Mach anständige Beschreibungen und alles Maschinenlesbar. Warum geht das so langsam? Ich habe 22 Prozessorkerne und eine NVIDA mit 8GB oder 64GB schnelles RAM, warum juckelst du auf der Platte rum? Einige Programme sind durch vorherigen Systemcheck so schnell geworden, das es jetzt den --Ende Parameter gibt. Damit bleibt das letzte Fenster stehen und die Fertigmeldung etc. kann gelesen werden.
+Dann heisst das: Ey Cursor, check das mal und geht das auch in Python? Mach anständige Beschreibungen und alles Maschinenlesbar. Warum geht das so langsam? Ich habe 22 Prozessorkerne und eine NVIDA mit 8GB oder 64GB schnelles RAM, warum juckelst du auf der Platte rum? Einige Programme sind durch vorherigen Systemcheck so schnell geworden, das es jetzt den --Ende Parameter gibt. Damit bleibt das letzte Fenster stehen und die Fertigmeldung etc. kann gelesen werden.
 
 ## Beispielprojekte:
 
