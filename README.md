@@ -6,13 +6,13 @@ Hier teile ich meine Projekte, die ich mit de KI Cursor erstelle oder Überarbei
 
 Ich bin so wie die 4te Taste links unten. Alt
 In meiner Freizeit bastel ich an Freifunkroutern rum, baue Antennen oder Offloader.
-Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. Diese Repos sind Maschinenlesbar und auf Grundlage von [pep.](https://peps.python.org/) erstellt.
+Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. Diese Repos sind Maschinenlesbar und auf Grundlage von [pep.](https://peps.python.org/) erstellt. Aber Achtung: Auch Maschinen machen Fehler. 
 
 ## Meine Programmiersprachen & Tools:
 
     Powershell, Linux Bash, Python, Excel & VBA
     Git zum Teilen.
-    Cursor mit Fable5, Grok4.6
+    Cursor mit Fable5, Grok4.6 und ff.
 
 ## Projekte
 
