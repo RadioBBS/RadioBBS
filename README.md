@@ -21,8 +21,10 @@ Dann heisst das: Ey Cursor, check das mal und geht das auch in Python? Mach anst
 
 ## Beispielprojekte:
 
-    Zuviele, schau mal die Liste durch, im README.md oder im Kopf der Scripte steht drinn was geht. Oder lasst eine KI das Programm besser Beschreiben.
+    Zuviele, schau mal die Liste durch, im README.md oder im Kopf der Scripte steht drinn was geht. 
+    Oder lasst eine KI das Programm besser Beschreiben.
 <!--
 **RadioBBS/RadioBBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
