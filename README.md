@@ -4,9 +4,9 @@ Hier teile ich meine Projekte, die ich mit de KI Cursor erstelle oder Überarbei
 
 ## Über mich
 
-Ich bin so wie die 4te Taste links unten. Alt
+Ich bin so wie die 4te Taste links unten. Alt: 
 In meiner Freizeit bastel ich an Freifunkroutern rum, baue Antennen oder Offloader.
-Hab da ein Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. Diese Repos sind Maschinenlesbar und auf Grundlage von [pep.](https://peps.python.org/) erstellt. Aber Achtung: Auch Maschinen machen Fehler. 
+Hab da ein paar Raspberrys am laufen und da ich mit dem Rumprogrammieren echt viel vergesse, was echt nervt, bin ich auf KI umgestiegen. Das Hilft. Diese Repos sind Maschinenlesbar und auf Grundlage von [pep.](https://peps.python.org/) erstellt. Aber Achtung: Auch Maschinen machen Fehler. Deshalb habe einen Softwarestandart zusammengetragen und ein Styleguide entwickelt. Es wird auf Normen, Referenen, Security, Systemvariablenreferenzen, Plattformabhängigkeiten hingewiesen, damit ein vernünftiger Code entsteht. 
 
 ## Meine Programmiersprachen & Tools:
 
@@ -21,7 +21,7 @@ Dann heisst das: Ey Cursor, check das mal und geht das auch in Python? Mach anst
 
 ## Beispielprojekte:
 
-    Zuviele, schau mal die Liste durch, im README.md oder im Kopf der Scripte steht drinn was geht.
+    Zuviele, schau mal die Liste durch, im README.md oder im Kopf der Scripte steht drinn was geht. Oder lasst eine KI das Programm besser Beschreiben.
 <!--
 **RadioBBS/RadioBBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
